@@ -1,0 +1,31 @@
+.text {
+    color:aquamarine;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    box-shadow: 15px 15px 10px yellow; 
+    margin-left: 1100px;
+    padding-top: 40px;
+    border: 10px dotted red;
+    
+    
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    background-color: blueviolet;
+    width: 500px;
+    padding: 0;
+    margin: 0;
+    justify-content: space-around;
+    
+
+
+}
+
+li {
+    font-size: 24px;
+    
+    
+}
